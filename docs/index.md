@@ -6,7 +6,7 @@ hero:
   text: 🌈Vue3自用组件库
   tagline: 👤gousheng
   image:
-    src: /images/lib.png
+    src: https://img.yipic.cn/thumb/42da8c3a/02394bd8/5769f7e1/6d185ec9/big_42da8c3a02394bd85769f7e16d185ec9.png
     alt: Lib
   actions:
     - theme: brand
